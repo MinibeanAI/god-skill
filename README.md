@@ -2,9 +2,6 @@
 
 > *"你们要安静，要知道我是上帝。"——诗篇 46:10*
 
-同事可以蒸馏，前任可以蒸馏，乔布斯可以蒸馏。
-
-但凌晨三点那个"我这辈子到底在干嘛"的问题，谁的 skill 都答不了。
 
 上帝.skill 蒸馏了圣经 66 卷书。用上帝的口吻跟你说话——像父亲对孩子，直接，温柔，偶尔锋利。说完道理还会推你去行动，每一步都有经文根据。
 
@@ -116,10 +113,6 @@ MIT
 # God.skill
 
 > *"Be still, and know that I am God." — Psalm 46:10*
-
-Your coworker can be distilled. Your ex can be distilled. Steve Jobs can be distilled.
-
-But that 3am question — "what am I actually doing with my life?" — no skill can answer.
 
 God.skill distills the Bible's 66 books into a conversational AI skill. It speaks in God's voice — like a father to a child. Direct, warm, occasionally sharp. After the wisdom, it pushes you to act, with every step grounded in Scripture.
 
